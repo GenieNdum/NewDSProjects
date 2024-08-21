@@ -1,2 +1,2 @@
 # NewDSProjects
-Repo for new data science [rpjects
+Repo for new data science popjects
